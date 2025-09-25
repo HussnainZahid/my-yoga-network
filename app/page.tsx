@@ -8,6 +8,7 @@ import LogoCloud1 from "@/components/sections/LogoCloud1"
 import Newsletter1 from "@/components/sections/Newsletter1"
 import Pricing1 from "@/components/sections/Pricing1"
 import Services1 from "@/components/sections/Services1"
+import Cta9 from "@/components/sections/Cta9"
 
 import Testimonial1 from "@/components/sections/Testimonial1"
 export default function Home() {
@@ -18,6 +19,7 @@ export default function Home() {
 			<Layout headerStyle={1} footerStyle={1}>
 				<Hero1 />
 				<LogoCloud1 />
+				<Cta9/>
 				<Features1 />
 				<Features2 />
 				<Features3 />

@@ -32,24 +32,24 @@ export default function LogoCloud1() {
                   </li>
                   <li className="carouselTicker__item">
                     <img
-                      src="/assets/imgs/logo-cloud/logo-2.png"
+                      src="/assets/imgs/logo-cloud/logo2.png"
                       alt="infinia"
                     />
                   </li>
                   <li className="carouselTicker__item">
                     <img
-                      src="/assets/imgs/logo-cloud/logo-3.png"
+                      src="/assets/imgs/logo-cloud/logo3.png"
                       alt="infinia"
                     />
                   </li>
                   <li className="carouselTicker__item">
                     <img
-                      src="/assets/imgs/logo-cloud/logo-4.png"
+                      src="/assets/imgs/logo-cloud/logo4.png"
                       alt="infinia"
                     />
                   </li>
                   <li className="carouselTicker__item">
-                    {/* <img src="/assets/imgs/logo-cloud/logo-5.png" alt="infinia"> */}
+                    {/* <img src="/assets/imgs/logo-cloud/logo5.png" alt="infinia"> */}
                     <svg
                       className="mt-3"
                       xmlns="http://www.w3.org/2000/svg"
@@ -83,19 +83,37 @@ export default function LogoCloud1() {
                   </li>
                   <li className="carouselTicker__item">
                     <img
-                      src="/assets/imgs/logo-cloud/logo-6.png"
+                      src="/assets/imgs/logo-cloud/logo6.png"
                       alt="infinia"
                     />
                   </li>
                   <li className="carouselTicker__item">
                     <img
-                      src="/assets/imgs/logo-cloud/logo-7.png"
+                      src="/assets/imgs/logo-cloud/logo7.png"
                       alt="infinia"
                     />
                   </li>
                   <li className="carouselTicker__item">
                     <img
-                      src="/assets/imgs/logo-cloud/logo-4.png"
+                      src="/assets/imgs/logo-cloud/logo4.png"
+                      alt="infinia"
+                    />
+                  </li>
+                  <li className="carouselTicker__item">
+                    <img
+                      src="/assets/imgs/logo-cloud/logo8.png"
+                      alt="infinia"
+                    />
+                  </li>
+                  <li className="carouselTicker__item">
+                    <img
+                      src="/assets/imgs/logo-cloud/logo9.png"
+                      alt="infinia"
+                    />
+                  </li>
+                  <li className="carouselTicker__item">
+                    <img
+                      src="/assets/imgs/logo-cloud/logo10.png"
                       alt="infinia"
                     />
                   </li>

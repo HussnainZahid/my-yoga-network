@@ -3,6 +3,7 @@ import Link from "next/link";
 export default function Menu() {
   return (
     <>
+    
       <div className="d-none d-lg-flex">
         <ul className="navbar-nav mx-auto gap-4 align-items-lg-center">
           <li className="nav-item ">
@@ -32,7 +33,7 @@ export default function Menu() {
                     className="dropdown-item position-relative z-1"
                     href="/page-about"
                   >
-                    Hotels and Resorts
+                    Hotel & Resort Wellness
                   </Link>
                 </li>
                 <li>
@@ -46,7 +47,7 @@ export default function Menu() {
                 <li>
                   <Link
                     className="dropdown-item position-relative z-1"
-                    href="/page-about-3"
+                    href="page-health"
                   >
                     Healthcare
                   </Link>
@@ -54,7 +55,7 @@ export default function Menu() {
                 <li>
                   <Link
                     className="dropdown-item position-relative z-1"
-                    href="/page-about-3"
+                    href="/page-kids-program"
                   >
                     Kid's Program
                   </Link>
@@ -66,7 +67,7 @@ export default function Menu() {
           <li className="nav-item ">
             <Link
               className="nav-link fw-bold d-flex align-items-center"
-              href="#"
+              href="page-yoga-ai"
             >
               Yoga AI
             </Link>
@@ -81,6 +82,7 @@ export default function Menu() {
           </li>
         </ul>
       </div>
+      
     </>
   );
 }

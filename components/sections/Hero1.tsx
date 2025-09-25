@@ -12,12 +12,7 @@ export default function Hero1() {
                   href="#"
                   className="d-flex align-items-center bg-linear-1 d-inline-flex rounded-pill px-2 py-1"
                 >
-                  <span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">
-                    New
-                  </span>
-                  <span className="fs-7 fw-medium text-primary mx-2">
-                    Free Lifetime Update
-                  </span>
+                  
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width={18}
@@ -25,20 +20,7 @@ export default function Hero1() {
                     viewBox="0 0 18 19"
                     fill="none"
                   >
-                    <path
-                      d="M10.3125 5.5625L14.4375 9.5L10.3125 13.4375"
-                      stroke="#ffb703"
-                      strokeWidth="1.125"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                    <path
-                      d="M14.25 9.5H3.5625"
-                      stroke="#ffb703"
-                      strokeWidth="1.125"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
+                    
                   </svg>
                 </Link>
                 <h3
@@ -47,16 +29,16 @@ export default function Hero1() {
                   data-aos-delay={0}
                 >
                   Professional Wellness Solutions for Organizations and
-                  Communities.
+                  Communities
                 </h3>
                 <p
                   className="pe-10 mb-5"
                   data-aos="fade-zoom-in"
                   data-aos-delay={200}
                 >
-                  We help schools, hotels, corporations, healthcare providers,
-                  and community groups deliver safe, certified, and
-                  results-driven yoga and wellness programs. .
+                  We empower schools, hotels, corporations, healthcare
+                  providers, and community groups with safe, certified, and
+                  impactful yoga and wellness programs.
                 </p>
                 <Link
                   href="/page-services-1"
@@ -231,14 +213,14 @@ export default function Hero1() {
                   >
                     <path
                       d="M10.3125 5.5625L14.4375 9.5L10.3125 13.4375"
-                      stroke="#ffb703"
+                      stroke="#FFB703"
                       strokeWidth="1.125"
                       strokeLinecap="round"
                       strokeLinejoin="round"
                     />
                     <path
                       d="M14.25 9.5H3.5625"
-                      stroke="#ffb703"
+                      stroke="#FFB703"
                       strokeWidth="1.125"
                       strokeLinecap="round"
                       strokeLinejoin="round"

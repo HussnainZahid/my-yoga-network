@@ -25,12 +25,12 @@ export default function Search({ isSearch, handleSearch }: any) {
 								<div className="d-flex flex-column flex-lg-row mt-5">
 									<h6 className="d-inline me-2">Suggest:</h6>
 									<div className="d-flex flex-wrap gap-2">
-										<Link href="#">Startup</Link>
-										<Link href="#">Agency</Link>
-										<Link href="#">Creative</Link>
-										<Link href="#">Consulting</Link>
-										<Link href="#">IT services</Link>
-										<Link href="#">Pricing</Link>
+										<Link href="#">Wellness</Link>
+										<Link href="#">Yoga</Link>
+										<Link href="#">Corporate</Link>
+										<Link href="#">Healthcare</Link>
+										<Link href="#">Kids Programs</Link>
+										<Link href="#">Retreats</Link>
 									</div>
 								</div>
 							</div>
@@ -38,7 +38,6 @@ export default function Search({ isSearch, handleSearch }: any) {
 					</div>
 				</div>
 			</div>
-			
 		</>
 	)
 }

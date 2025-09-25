@@ -59,10 +59,10 @@ Table of contents
   --tc-body-line-height: 1.5;
   --tc-heading-line-height: 1.2;
   --tc-theme-primary: #FFB703;
-  --tc-theme-primary-light: #a38cff;
+  --tc-theme-primary-light: #FFB703;
   --tc-theme-secondary: #7f7d88;
   --tc-theme-primary-soft: #f5eeff;
-  --tc-theme-primary-dark: #6342ec;
+  --tc-theme-primary-dark: #c8a651;
   --tc-theme-dark-primary: #FFB703;
   --tc-theme-dark-primary-light: #866dee;
   --tc-theme-dark-secondary: #7f7d88;
@@ -116,8 +116,8 @@ Table of contents
   --tc-bg-dark-5: #100f0e;
   --tc-bg-dark-6: #1a2028;
   --tc-bg-dark-7: #111822;
-  --tc-linear-1: linear-gradient(90deg, #d7cdff 0%, #f8e2ff 100%);
-  --tc-linear-2: linear-gradient(90deg, #6d4df2 0%, #8c71ff 100%);
+  --tc-linear-1: linear-gradient(90deg, #fad066 0%, #fad066 100%);
+  --tc-linear-2: linear-gradient(90deg, #FFB703 0%, #f1c85e 100%);
   --tc-linear-3: linear-gradient(180deg, #eeebf0 0%, #ffffff 100%);
   --tc-linear-4: linear-gradient(180deg, #ffffff 0%, #f4f4f4 100%);
   --tc-linear-dark-1: linear-gradient(90deg, #a89adb 0%, #e6ceee 100%);
@@ -12794,7 +12794,7 @@ strong {
 }
 
 .bloom:before {
-  background: linear-gradient(22.5deg, #ffffff 0%, #794aff 100%);
+  background: linear-gradient(22.5deg, #ffffff 0%, #FFB703 100%);
 }
 
 .bloom:after {
@@ -12873,7 +12873,7 @@ strong {
 }
 
 .bloom:before {
-  background: linear-gradient(22.5deg, #ffffff 0%, #794aff 100%);
+  background: linear-gradient(22.5deg, #ffffff 0%, #faca50 100%);
 }
 
 .bloom:after {
@@ -13970,7 +13970,7 @@ a:hover {
   height: 248px;
   transform: rotate(-2.821deg);
   border-radius: 16px;
-  background: var(--tc-linear-1, linear-gradient(89deg, #d7cdff 0.92%, #f8e2ff 99.76%));
+  background: var(--tc-linear-1, linear-gradient(89deg, #faca50 0.92%, #faca50 99.76%));
   right: -5%;
   top: -5%;
   transition: 0.3s ease-in-out;

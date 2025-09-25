@@ -20,7 +20,7 @@ export default function Features1() {
                 </span>
               </div>
               <h2 className="fw-medium mt-4 lh-sm">
-                Transforming
+                Elevating
                 <span className="fw-black"> Wellness Journeys</span> with
                 <span
                   className="text-primary fst-italic"
@@ -28,7 +28,7 @@ export default function Features1() {
                   data-aos-delay={400}
                 >
                   {" "}
-                  Personalized Programs.
+                  Tailored Yoga Programs.
                 </span>
               </h2>
             </div>
@@ -39,11 +39,7 @@ export default function Features1() {
                   data-aos="fade-zoom-in"
                   data-aos-delay={100}
                 >
-                  <img
-                    className="rounded-3 border border-3 border-white"
-                    src="/assets/imgs/features-1/img-1.png"
-                    alt="infinia"
-                  />
+                  
                 </div>
                 <div
                   className="pe-md-3 pb-3 pb-md-0 position-relative z-1"
@@ -53,7 +49,7 @@ export default function Features1() {
                   <img
                     className="rounded-3 border border-3 border-white"
                     src="/assets/imgs/features-1/img-2.png"
-                    alt="infinia"
+                    alt="my-yoga-network"
                   />
                 </div>
                 <div
@@ -64,7 +60,7 @@ export default function Features1() {
                   <img
                     className="rounded-3 border border-3 border-white"
                     src="/assets/imgs/features-1/img-3.png"
-                    alt="infinia"
+                    alt="my-yoga-network"
                   />
                   <Link
                     href="#"
@@ -101,17 +97,17 @@ export default function Features1() {
                 <img
                   className="position-absolute top-50 start-0 translate-middle-y z-0"
                   src="/assets/imgs/features-1/bg-ellipse.png"
-                  alt="infinia"
+                  alt="my-yoga-network"
                 />
                 <img
                   className="position-absolute z-2 star-lg"
                   src="/assets/imgs/features-1/star-lg.png"
-                  alt="infinia"
+                  alt="my-yoga-network"
                 />
                 <img
                   className="position-absolute z-2 star-md"
                   src="/assets/imgs/features-1/star-md.png"
-                  alt="infinia"
+                  alt="my-yoga-network"
                 />
               </div>
             </div>
@@ -124,11 +120,11 @@ export default function Features1() {
 							<div className="feature-item mb-5 mb-lg-0">
 								<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 									<div className="icon">
-										<img src="/assets/imgs/features-1/icon-1.svg" alt="infinia" />
+										<img src="/assets/imgs/features-1/icon-1.svg" alt="my-yoga-network" />
 									</div>
 								</div>
 								<h6>Hotels & Resorts</h6>
-								<p>Enhance guest satisfaction and differentiate your property with professionally curated yoga, meditation, and wellness retreats.</p>
+								<p>Boost guest satisfaction and elevate your property’s appeal with expertly designed yoga, meditation, and wellness retreats.</p>
 							</div>
 						</div>
             <div
@@ -141,14 +137,14 @@ export default function Features1() {
                   <div className="icon">
                     <img
                       src="/assets/imgs/features-1/icon-2.svg"
-                      alt="infinia"
+                      alt="my-yoga-network"
                     />
                   </div>
                 </div>
                 <h6>Corporate Clients</h6>
                 <p>
-                  Boost employee productivity, reduce stress, and enhance
-                  overall well-being with customized yoga and wellness programs.
+                  Enhance employee productivity, reduce stress, and promote
+                  well-being with tailored yoga and wellness programs.
                 </p>
               </div>
             </div>
@@ -162,14 +158,14 @@ export default function Features1() {
                   <div className="icon">
                     <img
                       src="/assets/imgs/features-1/icon-3.svg"
-                      alt="infinia"
+                      alt="my-yoga-network"
                     />
                   </div>
                 </div>
                 <h6>Schools/Kids Yoga</h6>
                 <p>
-                  Introduce Kids Yoga at your school or at our studio to foster
-                  focus, flexibility, and emotional resilience among students.
+                  Offer Kids Yoga at your school or our studio to build focus,
+                  flexibility, and emotional resilience in students.
                 </p>
               </div>
             </div>
@@ -183,15 +179,14 @@ export default function Features1() {
                   <div className="icon">
                     <img
                       src="/assets/imgs/features-1/icon-4.svg"
-                      alt="infinia"
+                      alt="my-yoga-network"
                     />
                   </div>
                 </div>
                 <h6>Healthcare Providers</h6>
                 <p>
-                  Complement your existing healthcare services with therapeutic
-                  yoga and wellness sessions for patients, staff, and
-                  caregivers.
+                  Enhance your healthcare services with therapeutic yoga and
+                  wellness sessions for patients, staff, and caregivers.
                 </p>
               </div>
             </div>
