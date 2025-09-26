@@ -323,7 +323,8 @@ export default function Hero5() {
                       data-bs-parent=".accordion"
                     >
                       <p className="px-0 card-body fs-6 text-600">
-                        Provides tools beyond homework and screen time to improve focus, mood, strength, kindness, and calm.
+                        Provides tools beyond homework and screen time to
+                        improve focus, mood, strength, kindness, and calm.
                       </p>
                     </div>
                   </div>
@@ -430,7 +431,7 @@ export default function Hero5() {
                 >
                   <img
                     className="rounded-3 w-100 w-md-auto"
-                    src="/assets/imgs/features-6/img-1.png"
+                    src="/assets/imgs/features-6/img-3.png"
                     alt="Helping Kids Thrive"
                   />
                   <div className="content mt-md-0 mt-4 ms-5">
@@ -447,7 +448,7 @@ export default function Hero5() {
                 >
                   <img
                     className="rounded-3 w-100 w-md-auto"
-                    src="/assets/imgs/features-6/img-2.png"
+                    src="/assets/imgs/features-6/img-1.png"
                     alt="Why After School Program"
                   />
                   <div className="content mt-md-0 mt-4 ms-5">
@@ -464,7 +465,7 @@ export default function Hero5() {
                 >
                   <img
                     className="rounded-3 w-100 w-md-auto"
-                    src="/assets/imgs/features-6/img-3.png"
+                    src="/assets/imgs/features-6/img-2.png"
                     alt="Compliance & Safety"
                   />
                   <div className="content mt-md-0 mt-4 ms-5">
@@ -973,6 +974,98 @@ export default function Hero5() {
           <div className="rotate-center ellipse-rotate-success position-absolute z-1" />
           <div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />
         </section>
+        {/* feature-12 */}
+        <section className="section-feature-12 border-bottom pb-120 pt-110">
+          <div className="container">
+            <div className="text-center">
+              <h5 className="ds-5">12-Week Program (2 Hours per Week)</h5>
+              <p className="fs-5 pb-4">
+               A structured program combining yoga and mindfulness art to support kids’ development.
+              </p>
+            </div>
+            <div className="row">
+              <div className="col-lg-6">
+                <div className="feature-item mb-5 bg-neutral-100 p-7 rounded-4 hover-up">
+                  <div className="icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
+                    <div className="icon">
+                      <img
+                        className="filter-invert"
+                        src="/assets/imgs/service-1/icon-6.svg"
+                        alt="My Yoga Network"
+                      />
+                    </div>
+                  </div>
+                  <h4>Yoga Theme (1 hr)</h4>
+                  <p>
+                    Week 1: Grounding & Balance
+                    <br />
+                    Week 2: Breath Awareness & Focus
+                    <br />
+                    Week 3: Kindness in Motion (Heart Openers)
+                    <br />
+                    Week 4: Strength & Confidence
+                    <br />
+                    Week 5: Emotional Release (Twists & Flows)
+                    <br />
+                    Week 6: Friendship & Team Yoga
+                    <br />
+                    Week 7: Calm & Stillness
+                    <br />
+                    Week 8: Energy Boost & Playful Movement
+                    <br />
+                    Week 9: Mindful Listening & Sound Healing
+                    <br />
+                    Week 10: Focus & Clarity
+                    <br />
+                    Week 11: Letting Go & Forgiveness
+                    <br />
+                    Week 12: Celebration & Reflection
+                  </p>
+                </div>
+              </div>
+              <div className="col-lg-6">
+                <div className="feature-item mb-5 bg-neutral-100 p-7 rounded-4 hover-up">
+                  <div className="icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
+                    <div className="icon">
+                      <img
+                        className="filter-invert"
+                        src="/assets/imgs/service-1/icon-4.svg"
+                        alt="My Yoga Network"
+                      />
+                    </div>
+                  </div>
+                  <h4>Art/Mindfulness Activity (1 hr)</h4>
+                  <p>
+                    Week 1: Create a “Calm Corner” poster or mood journal
+                    <br />
+                    Week 2: Make a paper breathing wand / straw breath craft
+                    <br />
+                    Week 3: Gratitude tree leaves (what am I grateful for?)
+                    <br />
+                    Week 4: “I Am” affirmation cards or superhero self-portraits
+                    <br />
+                    Week 5: Scribble art & color-your-feelings worksheets
+                    <br />
+                    Week 6: Create kindness coupons or team collage
+                    <br />
+                    Week 7: Mandala coloring with music or scent
+                    <br />
+                    Week 8: Paint-to-music or movement-inspired art
+                    <br />
+                    Week 9: DIY rainsticks or calming sound jars
+                    <br />
+                    Week 10: Zentangle or line art with silent drawing
+                    <br />
+                    Week 11: Flying wish paper or watercolor “let go” projects
+                    <br />
+                    Week 12: Decorate a yoga memory page or group mural
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/*Team-1*/}
         <section className="section-team-1 section-padding position-relative overflow-hidden">
           <div className="container">
@@ -997,7 +1090,7 @@ export default function Hero5() {
               <div className="col-lg-3 col-md-6 mb-lg-4 mb-7 text-center" data-aos="fade-zoom-in" data-aos-delay={100}>
               <div className="position-relative d-inline-block z-1">
                 <div className="zoom-img rounded-3">
-                  <img className="img-fluid w-100" src="/assets/imgs/team-1/teacher-1.jpg" alt="my-yoga-network" />
+                  <img className="img-fluid w-100" src="/assets/imgs/team-1/img-1.jpg" alt="my-yoga-network" />
                 </div>
               </div>
             </div>
@@ -1010,7 +1103,7 @@ export default function Hero5() {
                   <div className="zoom-img rounded-3">
                     <img
                       className="img-fluid w-100"
-                      src="/assets/imgs/team-1/teacher-2.jpg"
+                      src="/assets/imgs/team-1/img-2.jpg"
                       alt="my-yoga-network"
                     />
                   </div>
@@ -1025,7 +1118,7 @@ export default function Hero5() {
                   <div className="zoom-img rounded-3">
                     <img
                       className="img-fluid w-100"
-                      src="/assets/imgs/team-1/teacher-3.jpg"
+                      src="/assets/imgs/team-1/img-3.jpg"
                       alt="my-yoga-network"
                     />
                   </div>
@@ -1040,7 +1133,7 @@ export default function Hero5() {
                   <div className="zoom-img rounded-3">
                     <img
                       className="img-fluid w-100"
-                      src="/assets/imgs/team-1/teacher-4.jpg"
+                      src="/assets/imgs/team-1/img-4.jpg"
                       alt="my-yoga-network"
                     />
                   </div>

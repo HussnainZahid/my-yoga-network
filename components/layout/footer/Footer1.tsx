@@ -96,15 +96,15 @@ export default function Footer1() {
                       <div className="d-flex flex-column align-items-start">
                         <Link
                           className="hover-effect text-white mb-2 fw-medium fs-6"
-                          href=""
+                          href="page-join-instructor"
                         >
-                          Mission Vision
+                          Join as an Instructor
                         </Link>
                         <Link
                           className="hover-effect text-white mb-2 fw-medium fs-6"
-                          href="#"
+                          href="page-Find-Yoga-Therapist"
                         >
-                          Our Team
+                          Find a Yoga Therapist
                         </Link>
                         <Link
                           className="hover-effect text-white mb-2 fw-medium fs-6"
@@ -232,9 +232,9 @@ export default function Footer1() {
 
                         <Link
                           className="hover-effect text-white mb-2 fw-medium fs-6"
-                          href="#"
+                          href=""
                         >
-                          System Status
+                          Documents
                         </Link>
                         <Link
                           className="hover-effect text-white mb-2 fw-medium fs-6"

@@ -25,7 +25,7 @@ export default function PageContact1() {
               <div className="rounded-4 border border-5 border-white zoom-img mb-5">
                 <img
                   className="rounded-4 w-100"
-                  src="/assets/imgs/contact-4/img-1.png"
+                  src="/assets/imgs/contact-4/img-4.png"
                   alt="Contact image"
                 />
               </div>
@@ -34,7 +34,7 @@ export default function PageContact1() {
               <div className="rounded-4 border border-5 border-white zoom-img mb-5 mb-lg-0">
                 <img
                   className="rounded-4 w-100"
-                  src="/assets/imgs/contact-4/img-2.png"
+                  src="/assets/imgs/contact-4/img-5.png"
                   alt="Team image"
                 />
               </div>
@@ -74,7 +74,7 @@ export default function PageContact1() {
               <div className="rounded-4 border border-5 border-white zoom-img mt-5 mt-lg-0">
                 <img
                   className="rounded-4 w-100"
-                  src="/assets/imgs/contact-4/img-3.png"
+                  src="/assets/imgs/contact-4/img-6.png"
                   alt="Additional image"
                 />
               </div>

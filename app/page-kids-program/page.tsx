@@ -12,11 +12,53 @@ export default function Hero5() {
   return (
     <>
       <Layout>
+        <section className="section-page-header py-10 fix position-relative">
+        <div className="container position-relative z-1">
+          <div className="text-start">
+            <h3>Kids Program</h3>
+            <div className="d-flex">
+              <Link href="/">
+                <p className="mb-0 text-900">Home</p>
+              </Link>
+              <svg
+                className="mx-3 mt-1"
+                xmlns="http://www.w3.org/2000/svg"
+                width={8}
+                height={13}
+                viewBox="0 0 8 13"
+                fill="none"
+              >
+                <path
+                  className="stroke-dark"
+                  d="M1 1.5L6.5 6.75L1 12"
+                  stroke="#111827"
+                  strokeWidth="1.5"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                />
+              </svg>
+              <p className="text-primary mb-0">Kids Program</p>
+            </div>
+          </div>
+        </div>
+        <img
+          className="position-absolute bottom-0 start-0 end-0 top-0 z-0"
+          src="/assets/imgs/page-header/bg-line.png"
+          alt="my-yoga-network"
+        />
+        <div className="bouncing-blobs-container">
+          <div className="bouncing-blobs-glass" />
+          <div className="bouncing-blobs">
+            <div className="position-absolute top-0 start-0 translate-middle-y bouncing-blob--green" />
+            <div className="position-absolute top-0 end-0 bouncing-blob--primary" />
+          </div>
+        </div>
+      </section>
         {/*Hero 5*/}
         <div className="section-hero-5 position-relative">
           <div
             className="position-relative py-188 img-pull"
-            style={{ backgroundImage: `url(/assets/imgs/hero-5/img-bg-1.png)` }}
+            style={{ backgroundImage: `url(/assets/imgs/hero-5/img-bg.png)` }}
           >
             <div className="container position-relative z-2">
               <div className="row">
@@ -238,7 +280,7 @@ export default function Hero5() {
                       supportive and creative environment.
                     </p>
                     <Link
-                      href="#"
+                      href="page-yoga-studio"
                       className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more"
                     >
                       <svg
@@ -366,11 +408,7 @@ export default function Hero5() {
           <div className="container">
             <div className="row position-relative z-1">
               <div className="text-center">
-                <div
-                  className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2"
-                  data-aos="zoom-in"
-                  data-aos-delay={100}
-                ></div>
+                
                 <h3
                   className="ds-3 my-3"
                   data-aos="fade-zoom-in"
